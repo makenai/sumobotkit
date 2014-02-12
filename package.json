@@ -1,0 +1,11 @@
+{
+  "name": "sumobotkit",
+  "version": "0.0.0",
+  "description": "Design custom sumo bots for laser cutting and 3D printing. Yay!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pawel Szymczykowski",
+  "license": "ISC"
+}

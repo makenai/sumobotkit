@@ -1,0 +1,62 @@
+body {
+  background: url(../img/washi.png);
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+}
+
+#container {
+  background-color: #fefefe;
+  border-right: 3px solid #444;
+  border-left: 3px solid #444;
+  position: relative;
+  padding-bottom: 1em;
+}
+
+a {
+  color: black;
+  font-weight: bold;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Bitter', serif;
+  text-align: center;
+}
+
+iframe { margin: auto; display: block; }
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+p {
+  padding: 2em;
+}
+
+img.photo {
+  border: 2px solid black;
+  display: block;
+  margin: auto;
+}
+
+div.credits {
+  text-align: center;
+  margin-top: 0.5em;
+}
+
+#footer {
+  text-align: center;
+}
+
+#logo, #openhardware { 
+  display: block;
+  margin: auto; 
+}
+
+#openhardware {
+  margin-top: 50px;
+}
